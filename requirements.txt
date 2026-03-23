@@ -1,0 +1,7 @@
+# Android Sudoku Solver — Dependencies
+
+opencv-python>=4.9.0
+numpy>=1.26.0
+uiautomator2>=3.2.0
+Pillow>=10.0.0
+tensorflow-cpu>=2.16.0
